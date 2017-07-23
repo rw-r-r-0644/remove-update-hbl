@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+    <name>Remove Update</name>
+    <coder>rw-r-r-0644</coder>
+	<url>https://github.com/rw-r-r-0644/RemoveUpdate-for-HBL</url>
+    <version>0.1</version>
+    <release_date>201707190000000</release_date>
+    <short_description>Remove Updates</short_description>
+	<long_description>Update Deleter for HBL
+
+This homebrew attempts to remove the currently in download system update
+
+No guarantee that it will work
+Based on https://github.com/wiiudev/libwiiu/tree/master/examples/remove_update
+	</long_description>
+	<category>tool</category>
+</app>
